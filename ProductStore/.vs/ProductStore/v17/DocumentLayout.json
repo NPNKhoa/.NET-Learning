@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET Learning\\ProductStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|d:\\.net learning\\productstore\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|d:\\.net learning\\productstore\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|solutionrelative:interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|d:\\.net learning\\productstore\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|d:\\.net learning\\productstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|d:\\.net learning\\productstore\\dtos\\category\\categorycreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|solutionrelative:dtos\\category\\categorycreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|d:\\.net learning\\productstore\\dtos\\product\\productcreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|solutionrelative:dtos\\product\\productcreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|d:\\.net learning\\productstore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|d:\\.net learning\\productstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|d:\\.net learning\\productstore\\dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|solutionrelative:dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|d:\\.net learning\\productstore\\dtos\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|solutionrelative:dtos\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|d:\\.net learning\\productstore\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|solutionrelative:interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|d:\\.net learning\\productstore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|d:\\.net learning\\productstore\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|d:\\.net learning\\productstore\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635913B1-E342-4E3A-9E93-482C541EA177}|ProductStore.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\ProductStore\\Dtos\\Category\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Category\\CategoryDto.cs",
+              "ToolTip": "D:\\.NET Learning\\ProductStore\\Dtos\\Category\\CategoryDto.cs",
+              "RelativeToolTip": "Dtos\\Category\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:44:12.983Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\ProductStore\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\.NET Learning\\ProductStore\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:56:31.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\ProductStore\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\.NET Learning\\ProductStore\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:56:18.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryCreateUpdateDto.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\ProductStore\\Dtos\\Category\\CategoryCreateUpdateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Category\\CategoryCreateUpdateDto.cs",
+              "ToolTip": "D:\\.NET Learning\\ProductStore\\Dtos\\Category\\CategoryCreateUpdateDto.cs",
+              "RelativeToolTip": "Dtos\\Category\\CategoryCreateUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:51:21.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductCreateUpdateDto.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\ProductStore\\Dtos\\Product\\ProductCreateUpdateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Product\\ProductCreateUpdateDto.cs",
+              "ToolTip": "D:\\.NET Learning\\ProductStore\\Dtos\\Product\\ProductCreateUpdateDto.cs",
+              "RelativeToolTip": "Dtos\\Product\\ProductCreateUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:51:01.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\ProductStore\\Dtos\\Product\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Product\\ProductDto.cs",
+              "ToolTip": "D:\\.NET Learning\\ProductStore\\Dtos\\Product\\ProductDto.cs",
+              "RelativeToolTip": "Dtos\\Product\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:43:26.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\ProductStore\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\.NET Learning\\ProductStore\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:27:22.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\ProductStore\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "D:\\.NET Learning\\ProductStore\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:27:00.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\ProductStore\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\.NET Learning\\ProductStore\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:20:53.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\ProductStore\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\.NET Learning\\ProductStore\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:20:33.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\ProductStore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\.NET Learning\\ProductStore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:15:40.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\ProductStore\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\.NET Learning\\ProductStore\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:12:27.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\ProductStore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\.NET Learning\\ProductStore\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:08:38.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\ProductStore\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\.NET Learning\\ProductStore\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:04:44.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

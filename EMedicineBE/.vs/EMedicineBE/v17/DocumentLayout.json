@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET Learning\\EMedicineBE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFA1200-D67C-4FC7-8CF7-C222AF15351A}|EMedicineBE.csproj|d:\\.net learning\\emedicinebe\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFA1200-D67C-4FC7-8CF7-C222AF15351A}|EMedicineBE.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFA1200-D67C-4FC7-8CF7-C222AF15351A}|EMedicineBE.csproj|d:\\.net learning\\emedicinebe\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFA1200-D67C-4FC7-8CF7-C222AF15351A}|EMedicineBE.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFA1200-D67C-4FC7-8CF7-C222AF15351A}|EMedicineBE.csproj|d:\\.net learning\\emedicinebe\\models\\medicines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFA1200-D67C-4FC7-8CF7-C222AF15351A}|EMedicineBE.csproj|solutionrelative:models\\medicines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFA1200-D67C-4FC7-8CF7-C222AF15351A}|EMedicineBE.csproj|d:\\.net learning\\emedicinebe\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFA1200-D67C-4FC7-8CF7-C222AF15351A}|EMedicineBE.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFA1200-D67C-4FC7-8CF7-C222AF15351A}|EMedicineBE.csproj|d:\\.net learning\\emedicinebe\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFA1200-D67C-4FC7-8CF7-C222AF15351A}|EMedicineBE.csproj|solutionrelative:models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFA1200-D67C-4FC7-8CF7-C222AF15351A}|EMedicineBE.csproj|d:\\.net learning\\emedicinebe\\models\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFA1200-D67C-4FC7-8CF7-C222AF15351A}|EMedicineBE.csproj|solutionrelative:models\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFA1200-D67C-4FC7-8CF7-C222AF15351A}|EMedicineBE.csproj|d:\\.net learning\\emedicinebe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFA1200-D67C-4FC7-8CF7-C222AF15351A}|EMedicineBE.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\EMedicineBE\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\.NET Learning\\EMedicineBE\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wBEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T04:26:45.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderItems.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\EMedicineBE\\Models\\OrderItems.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItems.cs",
+              "ToolTip": "D:\\.NET Learning\\EMedicineBE\\Models\\OrderItems.cs",
+              "RelativeToolTip": "Models\\OrderItems.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:11:17.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\EMedicineBE\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "Models\\Orders.cs",
+              "ToolTip": "D:\\.NET Learning\\EMedicineBE\\Models\\Orders.cs",
+              "RelativeToolTip": "Models\\Orders.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:10:03.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\EMedicineBE\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "D:\\.NET Learning\\EMedicineBE\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:08:30.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Medicines.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\EMedicineBE\\Models\\Medicines.cs",
+              "RelativeDocumentMoniker": "Models\\Medicines.cs",
+              "ToolTip": "D:\\.NET Learning\\EMedicineBE\\Models\\Medicines.cs",
+              "RelativeToolTip": "Models\\Medicines.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:06:24.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\EMedicineBE\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "D:\\.NET Learning\\EMedicineBE\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:04:14.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\EMedicineBE\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\.NET Learning\\EMedicineBE\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:45:34.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

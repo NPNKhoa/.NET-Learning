@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Demo_Media_Formatter.props" />
+</Project>

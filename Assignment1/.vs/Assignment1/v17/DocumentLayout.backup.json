@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET Learning\\Assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97765F84-DE0E-4058-B0F1-2D097905B05E}|CustomerWebClient\\CustomerWebClient.csproj|d:\\.net learning\\assignment1\\customerwebclient\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97765F84-DE0E-4058-B0F1-2D097905B05E}|CustomerWebClient\\CustomerWebClient.csproj|solutionrelative:customerwebclient\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97765F84-DE0E-4058-B0F1-2D097905B05E}|CustomerWebClient\\CustomerWebClient.csproj|d:\\.net learning\\assignment1\\customerwebclient\\customerwebclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{97765F84-DE0E-4058-B0F1-2D097905B05E}|CustomerWebClient\\CustomerWebClient.csproj|solutionrelative:customerwebclient\\customerwebclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51292A5E-A586-4D7D-89B5-D6EE14DCD26B}|DataAccess\\DataAccess.csproj|d:\\.net learning\\assignment1\\dataaccess\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51292A5E-A586-4D7D-89B5-D6EE14DCD26B}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7724530F-F82C-477B-88B3-D17253FA33AC}|CustomerManagementAPI\\CustomerManagementAPI.csproj|d:\\.net learning\\assignment1\\customermanagementapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7724530F-F82C-477B-88B3-D17253FA33AC}|CustomerManagementAPI\\CustomerManagementAPI.csproj|solutionrelative:customermanagementapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816611FA-F75C-4621-BBBD-DE0D57C7EC85}|BusinessObjects\\BusinessObjects.csproj|d:\\.net learning\\assignment1\\businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816611FA-F75C-4621-BBBD-DE0D57C7EC85}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7724530F-F82C-477B-88B3-D17253FA33AC}|CustomerManagementAPI\\CustomerManagementAPI.csproj|d:\\.net learning\\assignment1\\customermanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7724530F-F82C-477B-88B3-D17253FA33AC}|CustomerManagementAPI\\CustomerManagementAPI.csproj|solutionrelative:customermanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816611FA-F75C-4621-BBBD-DE0D57C7EC85}|BusinessObjects\\BusinessObjects.csproj|d:\\.net learning\\assignment1\\businessobjects\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{816611FA-F75C-4621-BBBD-DE0D57C7EC85}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816611FA-F75C-4621-BBBD-DE0D57C7EC85}|BusinessObjects\\BusinessObjects.csproj|d:\\.net learning\\assignment1\\businessobjects\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816611FA-F75C-4621-BBBD-DE0D57C7EC85}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51292A5E-A586-4D7D-89B5-D6EE14DCD26B}|DataAccess\\DataAccess.csproj|d:\\.net learning\\assignment1\\dataaccess\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51292A5E-A586-4D7D-89B5-D6EE14DCD26B}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51292A5E-A586-4D7D-89B5-D6EE14DCD26B}|DataAccess\\DataAccess.csproj|d:\\.net learning\\assignment1\\dataaccess\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51292A5E-A586-4D7D-89B5-D6EE14DCD26B}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816611FA-F75C-4621-BBBD-DE0D57C7EC85}|BusinessObjects\\BusinessObjects.csproj|d:\\.net learning\\assignment1\\businessobjects\\migrations\\20240916014004_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816611FA-F75C-4621-BBBD-DE0D57C7EC85}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\migrations\\20240916014004_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816611FA-F75C-4621-BBBD-DE0D57C7EC85}|BusinessObjects\\BusinessObjects.csproj|d:\\.net learning\\assignment1\\businessobjects\\businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{816611FA-F75C-4621-BBBD-DE0D57C7EC85}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\Assignment1\\CustomerWebClient\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CustomerWebClient\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\.NET Learning\\Assignment1\\CustomerWebClient\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "CustomerWebClient\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:43:04.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerWebClient",
+              "DocumentMoniker": "D:\\.NET Learning\\Assignment1\\CustomerWebClient\\CustomerWebClient.csproj",
+              "RelativeDocumentMoniker": "CustomerWebClient\\CustomerWebClient.csproj",
+              "ToolTip": "D:\\.NET Learning\\Assignment1\\CustomerWebClient\\CustomerWebClient.csproj",
+              "RelativeToolTip": "CustomerWebClient\\CustomerWebClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T03:18:10.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NET Learning\\Assignment1\\CustomerManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomerManagementAPI\\appsettings.json",
+              "ToolTip": "D:\\.NET Learning\\Assignment1\\CustomerManagementAPI\\appsettings.json",
+              "RelativeToolTip": "CustomerManagementAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T02:32:58.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\Assignment1\\CustomerManagementAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CustomerManagementAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\.NET Learning\\Assignment1\\CustomerManagementAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CustomerManagementAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:07:44.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\Assignment1\\DataAccess\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\CustomerRepository.cs",
+              "ToolTip": "D:\\.NET Learning\\Assignment1\\DataAccess\\CustomerRepository.cs",
+              "RelativeToolTip": "DataAccess\\CustomerRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:59:19.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\Assignment1\\DataAccess\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ICustomerRepository.cs",
+              "ToolTip": "D:\\.NET Learning\\Assignment1\\DataAccess\\ICustomerRepository.cs",
+              "RelativeToolTip": "DataAccess\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:57:12.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\Assignment1\\DataAccess\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\CustomerDAO.cs",
+              "ToolTip": "D:\\.NET Learning\\Assignment1\\DataAccess\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAccess\\CustomerDAO.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAjwEUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:42:11.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240916014004_init.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\Assignment1\\BusinessObjects\\Migrations\\20240916014004_init.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Migrations\\20240916014004_init.cs",
+              "ToolTip": "D:\\.NET Learning\\Assignment1\\BusinessObjects\\Migrations\\20240916014004_init.cs",
+              "RelativeToolTip": "BusinessObjects\\Migrations\\20240916014004_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:40:05.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BusinessObjects",
+              "DocumentMoniker": "D:\\.NET Learning\\Assignment1\\BusinessObjects\\BusinessObjects.csproj",
+              "RelativeDocumentMoniker": "BusinessObjects\\BusinessObjects.csproj",
+              "ToolTip": "D:\\.NET Learning\\Assignment1\\BusinessObjects\\BusinessObjects.csproj",
+              "RelativeToolTip": "BusinessObjects\\BusinessObjects.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T01:37:52.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NET Learning\\Assignment1\\BusinessObjects\\appsettings.json",
+              "RelativeDocumentMoniker": "BusinessObjects\\appsettings.json",
+              "ToolTip": "D:\\.NET Learning\\Assignment1\\BusinessObjects\\appsettings.json",
+              "RelativeToolTip": "BusinessObjects\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T01:21:46.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerContext.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\Assignment1\\BusinessObjects\\CustomerContext.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\CustomerContext.cs",
+              "ToolTip": "D:\\.NET Learning\\Assignment1\\BusinessObjects\\CustomerContext.cs",
+              "RelativeToolTip": "BusinessObjects\\CustomerContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowA4AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:10:21.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\.NET Learning\\Assignment1\\BusinessObjects\\Customer.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Customer.cs",
+              "ToolTip": "D:\\.NET Learning\\Assignment1\\BusinessObjects\\Customer.cs",
+              "RelativeToolTip": "BusinessObjects\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:03:39.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
