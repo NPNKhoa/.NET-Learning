@@ -1,97 +1,97 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\.NET Learning\\FinShark\\",
+  "WorkspaceRootPath": "D:\\.NET-Learning\\FinShark\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net learning\\finshark\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net learning\\finshark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net learning\\finshark\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net learning\\finshark\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net learning\\finshark\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net learning\\finshark\\helpers\\queryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:helpers\\queryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net learning\\finshark\\mappers\\stockmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:mappers\\stockmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net learning\\finshark\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net learning\\finshark\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net learning\\finshark\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net learning\\finshark\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net learning\\finshark\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net-learning\\finshark\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net learning\\finshark\\dtos\\stock\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:dtos\\stock\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net learning\\finshark\\repositories\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net-learning\\finshark\\repositories\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:repositories\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net learning\\finshark\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net learning\\finshark\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net-learning\\finshark\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net learning\\finshark\\dtos\\stock\\updatestockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net-learning\\finshark\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net-learning\\finshark\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net-learning\\finshark\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net-learning\\finshark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net-learning\\finshark\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net-learning\\finshark\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net-learning\\finshark\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net-learning\\finshark\\helpers\\queryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:helpers\\queryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net-learning\\finshark\\mappers\\stockmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:mappers\\stockmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net-learning\\finshark\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net-learning\\finshark\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net-learning\\finshark\\dtos\\stock\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:dtos\\stock\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net-learning\\finshark\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net-learning\\finshark\\dtos\\stock\\updatestockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:dtos\\stock\\updatestockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net learning\\finshark\\dtos\\comment\\updatecommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net-learning\\finshark\\dtos\\comment\\updatecommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:dtos\\comment\\updatecommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net learning\\finshark\\dtos\\stock\\createstockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net-learning\\finshark\\dtos\\stock\\createstockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:dtos\\stock\\createstockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net learning\\finshark\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net-learning\\finshark\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net learning\\finshark\\dtos\\comment\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net-learning\\finshark\\dtos\\comment\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:dtos\\comment\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net learning\\finshark\\dtos\\comment\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net-learning\\finshark\\dtos\\comment\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:dtos\\comment\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net learning\\finshark\\mappers\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|d:\\.net-learning\\finshark\\mappers\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05179D46-7FEA-4C0A-BB66-FA43A3BFED18}|FinShark.csproj|solutionrelative:mappers\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -102,15 +102,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "RegisterDto.cs",
-              "DocumentMoniker": "D:\\.NET Learning\\FinShark\\Dtos\\Account\\RegisterDto.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\FinShark\\Dtos\\Account\\RegisterDto.cs",
               "RelativeDocumentMoniker": "Dtos\\Account\\RegisterDto.cs",
-              "ToolTip": "D:\\.NET Learning\\FinShark\\Dtos\\Account\\RegisterDto.cs",
+              "ToolTip": "D:\\.NET-Learning\\FinShark\\Dtos\\Account\\RegisterDto.cs",
               "RelativeToolTip": "Dtos\\Account\\RegisterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -118,37 +118,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\.NET Learning\\FinShark\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\FinShark\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "D:\\.NET Learning\\FinShark\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\.NET-Learning\\FinShark\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T04:21:11.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\.NET Learning\\FinShark\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\.NET Learning\\FinShark\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-28T16:51:13.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T04:21:11.901Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NET-Learning\\FinShark\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\.NET-Learning\\FinShark\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T16:51:13.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AppUser.cs",
-              "DocumentMoniker": "D:\\.NET Learning\\FinShark\\Models\\AppUser.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\FinShark\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "Models\\AppUser.cs",
-              "ToolTip": "D:\\.NET Learning\\FinShark\\Models\\AppUser.cs",
+              "ToolTip": "D:\\.NET-Learning\\FinShark\\Models\\AppUser.cs",
               "RelativeToolTip": "Models\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -157,24 +155,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "QueryObject.cs",
-              "DocumentMoniker": "D:\\.NET Learning\\FinShark\\Helpers\\QueryObject.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\FinShark\\Helpers\\QueryObject.cs",
               "RelativeDocumentMoniker": "Helpers\\QueryObject.cs",
-              "ToolTip": "D:\\.NET Learning\\FinShark\\Helpers\\QueryObject.cs",
+              "ToolTip": "D:\\.NET-Learning\\FinShark\\Helpers\\QueryObject.cs",
               "RelativeToolTip": "Helpers\\QueryObject.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T04:31:55.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T04:31:55.374Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "UpdateStockRequestDto.cs",
-              "DocumentMoniker": "D:\\.NET Learning\\FinShark\\Dtos\\Stock\\UpdateStockRequestDto.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\FinShark\\Dtos\\Stock\\UpdateStockRequestDto.cs",
               "RelativeDocumentMoniker": "Dtos\\Stock\\UpdateStockRequestDto.cs",
-              "ToolTip": "D:\\.NET Learning\\FinShark\\Dtos\\Stock\\UpdateStockRequestDto.cs",
+              "ToolTip": "D:\\.NET-Learning\\FinShark\\Dtos\\Stock\\UpdateStockRequestDto.cs",
               "RelativeToolTip": "Dtos\\Stock\\UpdateStockRequestDto.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAuwA8AAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -184,9 +181,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "CreateStockRequestDto.cs",
-              "DocumentMoniker": "D:\\.NET Learning\\FinShark\\Dtos\\Stock\\CreateStockRequestDto.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\FinShark\\Dtos\\Stock\\CreateStockRequestDto.cs",
               "RelativeDocumentMoniker": "Dtos\\Stock\\CreateStockRequestDto.cs",
-              "ToolTip": "D:\\.NET Learning\\FinShark\\Dtos\\Stock\\CreateStockRequestDto.cs",
+              "ToolTip": "D:\\.NET-Learning\\FinShark\\Dtos\\Stock\\CreateStockRequestDto.cs",
               "RelativeToolTip": "Dtos\\Stock\\CreateStockRequestDto.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -196,9 +193,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "UpdateCommentDto.cs",
-              "DocumentMoniker": "D:\\.NET Learning\\FinShark\\Dtos\\Comment\\UpdateCommentDto.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\FinShark\\Dtos\\Comment\\UpdateCommentDto.cs",
               "RelativeDocumentMoniker": "Dtos\\Comment\\UpdateCommentDto.cs",
-              "ToolTip": "D:\\.NET Learning\\FinShark\\Dtos\\Comment\\UpdateCommentDto.cs",
+              "ToolTip": "D:\\.NET-Learning\\FinShark\\Dtos\\Comment\\UpdateCommentDto.cs",
               "RelativeToolTip": "Dtos\\Comment\\UpdateCommentDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -208,9 +205,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "CreateCommentDto.cs",
-              "DocumentMoniker": "D:\\.NET Learning\\FinShark\\Dtos\\Comment\\CreateCommentDto.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\FinShark\\Dtos\\Comment\\CreateCommentDto.cs",
               "RelativeDocumentMoniker": "Dtos\\Comment\\CreateCommentDto.cs",
-              "ToolTip": "D:\\.NET Learning\\FinShark\\Dtos\\Comment\\CreateCommentDto.cs",
+              "ToolTip": "D:\\.NET-Learning\\FinShark\\Dtos\\Comment\\CreateCommentDto.cs",
               "RelativeToolTip": "Dtos\\Comment\\CreateCommentDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -218,24 +215,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\.NET Learning\\FinShark\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\FinShark\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\.NET Learning\\FinShark\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\.NET-Learning\\FinShark\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAIwAcAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T04:48:32.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T04:48:32.442Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "Stock.cs",
-              "DocumentMoniker": "D:\\.NET Learning\\FinShark\\Models\\Stock.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\FinShark\\Models\\Stock.cs",
               "RelativeDocumentMoniker": "Models\\Stock.cs",
-              "ToolTip": "D:\\.NET Learning\\FinShark\\Models\\Stock.cs",
+              "ToolTip": "D:\\.NET-Learning\\FinShark\\Models\\Stock.cs",
               "RelativeToolTip": "Models\\Stock.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -243,24 +239,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.NET Learning\\FinShark\\Program.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\FinShark\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\.NET Learning\\FinShark\\Program.cs",
+              "ToolTip": "D:\\.NET-Learning\\FinShark\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAAADwAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T19:45:59.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T19:45:59.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "StockDto.cs",
-              "DocumentMoniker": "D:\\.NET Learning\\FinShark\\Dtos\\Stock\\StockDto.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\FinShark\\Dtos\\Stock\\StockDto.cs",
               "RelativeDocumentMoniker": "Dtos\\Stock\\StockDto.cs",
-              "ToolTip": "D:\\.NET Learning\\FinShark\\Dtos\\Stock\\StockDto.cs",
+              "ToolTip": "D:\\.NET-Learning\\FinShark\\Dtos\\Stock\\StockDto.cs",
               "RelativeToolTip": "Dtos\\Stock\\StockDto.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -268,24 +263,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "StockMapper.cs",
-              "DocumentMoniker": "D:\\.NET Learning\\FinShark\\Mappers\\StockMapper.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\FinShark\\Mappers\\StockMapper.cs",
               "RelativeDocumentMoniker": "Mappers\\StockMapper.cs",
-              "ToolTip": "D:\\.NET Learning\\FinShark\\Mappers\\StockMapper.cs",
+              "ToolTip": "D:\\.NET-Learning\\FinShark\\Mappers\\StockMapper.cs",
               "RelativeToolTip": "Mappers\\StockMapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T17:39:40.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T17:39:40.929Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "CommentMapper.cs",
-              "DocumentMoniker": "D:\\.NET Learning\\FinShark\\Mappers\\CommentMapper.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\FinShark\\Mappers\\CommentMapper.cs",
               "RelativeDocumentMoniker": "Mappers\\CommentMapper.cs",
-              "ToolTip": "D:\\.NET Learning\\FinShark\\Mappers\\CommentMapper.cs",
+              "ToolTip": "D:\\.NET-Learning\\FinShark\\Mappers\\CommentMapper.cs",
               "RelativeToolTip": "Mappers\\CommentMapper.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -293,13 +287,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Comment.cs",
-              "DocumentMoniker": "D:\\.NET Learning\\FinShark\\Models\\Comment.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\FinShark\\Models\\Comment.cs",
               "RelativeDocumentMoniker": "Models\\Comment.cs",
-              "ToolTip": "D:\\.NET Learning\\FinShark\\Models\\Comment.cs",
+              "ToolTip": "D:\\.NET-Learning\\FinShark\\Models\\Comment.cs",
               "RelativeToolTip": "Models\\Comment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T17:38:54.629Z",
               "EditorCaption": ""
@@ -308,9 +302,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "CommentDto.cs",
-              "DocumentMoniker": "D:\\.NET Learning\\FinShark\\Dtos\\Comment\\CommentDto.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\FinShark\\Dtos\\Comment\\CommentDto.cs",
               "RelativeDocumentMoniker": "Dtos\\Comment\\CommentDto.cs",
-              "ToolTip": "D:\\.NET Learning\\FinShark\\Dtos\\Comment\\CommentDto.cs",
+              "ToolTip": "D:\\.NET-Learning\\FinShark\\Dtos\\Comment\\CommentDto.cs",
               "RelativeToolTip": "Dtos\\Comment\\CommentDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -318,73 +312,75 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "CommentController.cs",
-              "DocumentMoniker": "D:\\.NET Learning\\FinShark\\Controllers\\CommentController.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\FinShark\\Controllers\\CommentController.cs",
               "RelativeDocumentMoniker": "Controllers\\CommentController.cs",
-              "ToolTip": "D:\\.NET Learning\\FinShark\\Controllers\\CommentController.cs",
+              "ToolTip": "D:\\.NET-Learning\\FinShark\\Controllers\\CommentController.cs",
               "RelativeToolTip": "Controllers\\CommentController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowBoAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwBoAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T17:30:23.605Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "StockRepository.cs",
-              "DocumentMoniker": "D:\\.NET Learning\\FinShark\\Repositories\\StockRepository.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\FinShark\\Repositories\\StockRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\StockRepository.cs",
-              "ToolTip": "D:\\.NET Learning\\FinShark\\Repositories\\StockRepository.cs",
+              "ToolTip": "D:\\.NET-Learning\\FinShark\\Repositories\\StockRepository.cs",
               "RelativeToolTip": "Repositories\\StockRepository.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAcwCwAAABlAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T17:26:19.215Z"
+              "WhenOpened": "2024-08-26T17:26:19.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\FinShark\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CommentRepository.cs",
+              "ToolTip": "D:\\.NET-Learning\\FinShark\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "Repositories\\CommentRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:24:25.812Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CommentRepository.cs",
-              "DocumentMoniker": "D:\\.NET Learning\\FinShark\\Repositories\\CommentRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\CommentRepository.cs",
-              "ToolTip": "D:\\.NET Learning\\FinShark\\Repositories\\CommentRepository.cs",
-              "RelativeToolTip": "Repositories\\CommentRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBMAAAAfAAAAAAAAAA==",
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\FinShark\\Interfaces\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IStockRepository.cs",
+              "ToolTip": "D:\\.NET-Learning\\FinShark\\Interfaces\\IStockRepository.cs",
+              "RelativeToolTip": "Interfaces\\IStockRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T17:24:25.812Z",
+              "WhenOpened": "2024-08-26T17:23:22.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\FinShark\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StockController.cs",
+              "ToolTip": "D:\\.NET-Learning\\FinShark\\Controllers\\StockController.cs",
+              "RelativeToolTip": "Controllers\\StockController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDcAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:22:48.037Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "IStockRepository.cs",
-              "DocumentMoniker": "D:\\.NET Learning\\FinShark\\Interfaces\\IStockRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IStockRepository.cs",
-              "ToolTip": "D:\\.NET Learning\\FinShark\\Interfaces\\IStockRepository.cs",
-              "RelativeToolTip": "Interfaces\\IStockRepository.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAIBJwAgAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T17:23:22.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "StockController.cs",
-              "DocumentMoniker": "D:\\.NET Learning\\FinShark\\Controllers\\StockController.cs",
-              "RelativeDocumentMoniker": "Controllers\\StockController.cs",
-              "ToolTip": "D:\\.NET Learning\\FinShark\\Controllers\\StockController.cs",
-              "RelativeToolTip": "Controllers\\StockController.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAowBkAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T17:22:48.037Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "ICommentRepository.cs",
-              "DocumentMoniker": "D:\\.NET Learning\\FinShark\\Interfaces\\ICommentRepository.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\FinShark\\Interfaces\\ICommentRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\ICommentRepository.cs",
-              "ToolTip": "D:\\.NET Learning\\FinShark\\Interfaces\\ICommentRepository.cs",
+              "ToolTip": "D:\\.NET-Learning\\FinShark\\Interfaces\\ICommentRepository.cs",
               "RelativeToolTip": "Interfaces\\ICommentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

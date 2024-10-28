@@ -1,0 +1,142 @@
+﻿@model IEnumerable<BusinessObject.Book>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+<input type="text" id="filter" placeholder="Enter filter e.g., price gt 20" />
+<button onclick="sendODataRequest()">Send OData Request</button>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.type)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.advance)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.royalty)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ytd_sales)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.notes)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.published_date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Publisher)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody id="book-table-body">
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.advance)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.royalty)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ytd_sales)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.notes)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.published_date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Publisher.city)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.book_id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.book_id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.book_id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<script>
+    async function sendODataRequest() {
+        const filter = document.getElementById('filter').value;
+        const url = filter ? `http://localhost:5285/odata/Books?$filter=contains(title, '${filter}')` : `http://localhost:5285/odata/Books`;
+
+        try {
+            const response = await fetch(url);
+
+            if (!response.ok) {
+                throw new Error('Failed to fetch data from the server');
+            }
+
+            const data = await response.json();
+
+            console.log(data);
+            // Xử lý dữ liệu
+            renderBooks(data); // 'value' chứa danh sách các books từ OData response
+        } catch (error) {
+            console.log(error);
+            return alert("Some things went wrong")
+        }
+    }
+
+    // Hàm để render dữ liệu lên bảng
+    function renderBooks(books) {
+        const tableBody = document.getElementById('book-table-body');
+        tableBody.innerHTML = '';  // Xóa nội dung hiện tại của bảng
+
+        // Tạo nội dung mới
+        books.forEach(book => {
+            const row = document.createElement('tr');
+
+            row.innerHTML = `
+                <td>${book.title}</td>
+                <td>${book.type}</td>
+                <td>${book.price}</td>
+                <td>${book.advance}</td>
+                <td>${book.royalty}</td>
+                <td>${book.ytd_sales}</td>
+                <td>${book.notes}</td>
+                <td>${new Date(book.published_date).toLocaleDateString()}</td>
+                <td>${book.Publisher?.city || ''}</td>
+                <td>
+                    <a href="/Books/Edit/${book.book_id}">Edit</a> |
+                    <a href="/Books/Details/${book.book_id}">Details</a> |
+                    <a href="/Books/Delete/${book.book_id}">Delete</a>
+                </td>
+            `;
+
+            // Thêm row mới vào bảng
+            tableBody.appendChild(row);
+        });
+    }
+
+</script>

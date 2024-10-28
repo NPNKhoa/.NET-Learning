@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NET Learning\\Assignment1\\CustomerManagementAPI\\CustomerManagementAPI.csproj": {}
+    "D:\\.NET-Learning\\Assignment1\\CustomerManagementAPI\\CustomerManagementAPI.csproj": {}
   },
   "projects": {
-    "D:\\.NET Learning\\Assignment1\\BusinessObjects\\BusinessObjects.csproj": {
+    "D:\\.NET-Learning\\Assignment1\\BusinessObjects\\BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET Learning\\Assignment1\\BusinessObjects\\BusinessObjects.csproj",
+        "projectUniqueName": "D:\\.NET-Learning\\Assignment1\\BusinessObjects\\BusinessObjects.csproj",
         "projectName": "BusinessObjects",
-        "projectPath": "D:\\.NET Learning\\Assignment1\\BusinessObjects\\BusinessObjects.csproj",
+        "projectPath": "D:\\.NET-Learning\\Assignment1\\BusinessObjects\\BusinessObjects.csproj",
         "packagesPath": "C:\\Users\\nguyenkhoa\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET Learning\\Assignment1\\BusinessObjects\\obj\\",
+        "outputPath": "D:\\.NET-Learning\\Assignment1\\BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nguyenkhoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -91,14 +91,14 @@
         }
       }
     },
-    "D:\\.NET Learning\\Assignment1\\CustomerManagementAPI\\CustomerManagementAPI.csproj": {
+    "D:\\.NET-Learning\\Assignment1\\CustomerManagementAPI\\CustomerManagementAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET Learning\\Assignment1\\CustomerManagementAPI\\CustomerManagementAPI.csproj",
+        "projectUniqueName": "D:\\.NET-Learning\\Assignment1\\CustomerManagementAPI\\CustomerManagementAPI.csproj",
         "projectName": "CustomerManagementAPI",
-        "projectPath": "D:\\.NET Learning\\Assignment1\\CustomerManagementAPI\\CustomerManagementAPI.csproj",
+        "projectPath": "D:\\.NET-Learning\\Assignment1\\CustomerManagementAPI\\CustomerManagementAPI.csproj",
         "packagesPath": "C:\\Users\\nguyenkhoa\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET Learning\\Assignment1\\CustomerManagementAPI\\obj\\",
+        "outputPath": "D:\\.NET-Learning\\Assignment1\\CustomerManagementAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nguyenkhoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -116,11 +116,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\.NET Learning\\Assignment1\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "D:\\.NET Learning\\Assignment1\\BusinessObjects\\BusinessObjects.csproj"
+              "D:\\.NET-Learning\\Assignment1\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "D:\\.NET-Learning\\Assignment1\\BusinessObjects\\BusinessObjects.csproj"
               },
-              "D:\\.NET Learning\\Assignment1\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "D:\\.NET Learning\\Assignment1\\DataAccess\\DataAccess.csproj"
+              "D:\\.NET-Learning\\Assignment1\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\.NET-Learning\\Assignment1\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -168,14 +168,14 @@
         }
       }
     },
-    "D:\\.NET Learning\\Assignment1\\DataAccess\\DataAccess.csproj": {
+    "D:\\.NET-Learning\\Assignment1\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET Learning\\Assignment1\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\.NET-Learning\\Assignment1\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "D:\\.NET Learning\\Assignment1\\DataAccess\\DataAccess.csproj",
+        "projectPath": "D:\\.NET-Learning\\Assignment1\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\nguyenkhoa\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET Learning\\Assignment1\\DataAccess\\obj\\",
+        "outputPath": "D:\\.NET-Learning\\Assignment1\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nguyenkhoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -193,8 +193,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\.NET Learning\\Assignment1\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "D:\\.NET Learning\\Assignment1\\BusinessObjects\\BusinessObjects.csproj"
+              "D:\\.NET-Learning\\Assignment1\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "D:\\.NET-Learning\\Assignment1\\BusinessObjects\\BusinessObjects.csproj"
               }
             }
           }

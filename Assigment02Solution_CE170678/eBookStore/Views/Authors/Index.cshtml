@@ -1,0 +1,132 @@
+﻿@model IEnumerable<BusinessObject.Author>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+<input type="text" id="filter" placeholder="Enter filter e.g., price gt 20" />
+<button onclick="sendODataRequest()">Send OData Request</button>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.last_name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.first_name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.city)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.state)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.zip)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.email_address)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody id="author-table-body">
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.last_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.first_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.city)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.state)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.zip)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.email_address)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.author_id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.author_id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.author_id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<script>
+    async function sendODataRequest() {
+        const filter = document.getElementById('filter').value;
+        const url = filter ? `http://localhost:5285/odata/Authors?$filter=contains(last_name, '${filter}') or contains(first_name, '${filter}')` : `http://localhost:5285/odata/Authors`;
+
+        try {
+            const response = await fetch(url);
+
+            if (!response.ok) {
+                throw new Error('Failed to fetch data from the server');
+            }
+
+            const data = await response.json();
+            console.log(data);
+            renderAuthors(data);
+        } catch (error) {
+            console.error(error);
+            return alert("Some things went wrong");
+        }
+    }
+
+    // Hàm để render dữ liệu lên bảng
+    function renderAuthors(authors) {
+        const tableBody = document.getElementById('author-table-body');
+        tableBody.innerHTML = '';  // Xóa nội dung hiện tại của bảng
+
+        // Tạo nội dung mới
+        authors.forEach(author => {
+            const row = document.createElement('tr');
+
+            row.innerHTML = `
+                    <td>${author.last_name}</td>
+                    <td>${author.first_name}</td>
+                    <td>${author.phone}</td>
+                    <td>${author.address}</td>
+                    <td>${author.city}</td>
+                    <td>${author.state}</td>
+                    <td>${author.zip}</td>
+                    <td>${author.email_address}</td>
+                    <td>
+                        <a href="/Authors/Edit/${author.author_id}">Edit</a> |
+                        <a href="/Authors/Details/${author.author_id}">Details</a> |
+                        <a href="/Authors/Delete/${author.author_id}">Delete</a>
+                    </td>
+                `;
+
+            // Thêm row mới vào bảng
+            tableBody.appendChild(row);
+        });
+    }
+</script>

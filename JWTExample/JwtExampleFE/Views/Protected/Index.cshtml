@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Protected API Call";
+}
+
+<h2>Protected API Call</h2>
+
+<button onclick="callProtectedApi()">Call API</button>
+
+<p id="apiResult"></p>
+
+<script>
+    async function callProtectedApi() {
+        const token = localStorage.getItem('token');
+        if (!token) {
+            document.getElementById("apiResult").textContent = "You must login first!";
+            return;
+        }
+
+        const response = await fetch('/api/values', {
+            method: 'GET',
+            headers: {
+                'Authorization': `Bearer ${token}`
+            }
+        });
+
+        if (response.ok) {
+            const data = await response.json();
+            document.getElementById("apiResult").textContent = JSON.stringify(data);
+        } else {
+            document.getElementById("apiResult").textContent = "API request failed!";
+        }
+    }
+</script>

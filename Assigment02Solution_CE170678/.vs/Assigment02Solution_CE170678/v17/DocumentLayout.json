@@ -1,0 +1,601 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B486C824-B365-4076-81FB-345C34816996}|BusinessObject\\BusinessObject.csproj|d:\\.net-learning\\assigment02solution_ce170678\\businessobject\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B486C824-B365-4076-81FB-345C34816996}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|d:\\.net-learning\\assigment02solution_ce170678\\ebookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|solutionrelative:ebookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|d:\\.net-learning\\assigment02solution_ce170678\\ebookstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|solutionrelative:ebookstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|d:\\.net-learning\\assigment02solution_ce170678\\ebookstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|solutionrelative:ebookstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|d:\\.net-learning\\assigment02solution_ce170678\\ebookstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|solutionrelative:ebookstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|d:\\.net-learning\\assigment02solution_ce170678\\ebookstore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|solutionrelative:ebookstore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|d:\\.net-learning\\assigment02solution_ce170678\\ebookstore\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|solutionrelative:ebookstore\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|d:\\.net-learning\\assigment02solution_ce170678\\ebookstore\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|solutionrelative:ebookstore\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|d:\\.net-learning\\assigment02solution_ce170678\\ebookstore\\controllers\\authcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|solutionrelative:ebookstore\\controllers\\authcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|d:\\.net-learning\\assigment02solution_ce170678\\ebookstore\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|solutionrelative:ebookstore\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|d:\\.net-learning\\assigment02solution_ce170678\\ebookstore\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|solutionrelative:ebookstore\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B390455-625D-47C1-B581-5C9FFB332CAC}|eBookStoreWebApi\\eBookStoreWebApi.csproj|d:\\.net-learning\\assigment02solution_ce170678\\ebookstorewebapi\\controllers\\bookauthorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B390455-625D-47C1-B581-5C9FFB332CAC}|eBookStoreWebApi\\eBookStoreWebApi.csproj|solutionrelative:ebookstorewebapi\\controllers\\bookauthorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F866A5-3745-47AB-ABA9-2C8A3BAD77E4}|DataAccess\\DataAccess.csproj|d:\\.net-learning\\assigment02solution_ce170678\\dataaccess\\daos\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F866A5-3745-47AB-ABA9-2C8A3BAD77E4}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\daos\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B486C824-B365-4076-81FB-345C34816996}|BusinessObject\\BusinessObject.csproj|d:\\.net-learning\\assigment02solution_ce170678\\businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B486C824-B365-4076-81FB-345C34816996}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F866A5-3745-47AB-ABA9-2C8A3BAD77E4}|DataAccess\\DataAccess.csproj|d:\\.net-learning\\assigment02solution_ce170678\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5F866A5-3745-47AB-ABA9-2C8A3BAD77E4}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B390455-625D-47C1-B581-5C9FFB332CAC}|eBookStoreWebApi\\eBookStoreWebApi.csproj|d:\\.net-learning\\assigment02solution_ce170678\\ebookstorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B390455-625D-47C1-B581-5C9FFB332CAC}|eBookStoreWebApi\\eBookStoreWebApi.csproj|solutionrelative:ebookstorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B486C824-B365-4076-81FB-345C34816996}|BusinessObject\\BusinessObject.csproj|d:\\.net-learning\\assigment02solution_ce170678\\businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B486C824-B365-4076-81FB-345C34816996}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B486C824-B365-4076-81FB-345C34816996}|BusinessObject\\BusinessObject.csproj|d:\\.net-learning\\assigment02solution_ce170678\\businessobject\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B486C824-B365-4076-81FB-345C34816996}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|d:\\.net-learning\\assigment02solution_ce170678\\ebookstore\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|solutionrelative:ebookstore\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B390455-625D-47C1-B581-5C9FFB332CAC}|eBookStoreWebApi\\eBookStoreWebApi.csproj|d:\\.net-learning\\assigment02solution_ce170678\\ebookstorewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B390455-625D-47C1-B581-5C9FFB332CAC}|eBookStoreWebApi\\eBookStoreWebApi.csproj|solutionrelative:ebookstorewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B486C824-B365-4076-81FB-345C34816996}|BusinessObject\\BusinessObject.csproj|d:\\.net-learning\\assigment02solution_ce170678\\businessobject\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B486C824-B365-4076-81FB-345C34816996}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B390455-625D-47C1-B581-5C9FFB332CAC}|eBookStoreWebApi\\eBookStoreWebApi.csproj|d:\\.net-learning\\assigment02solution_ce170678\\ebookstorewebapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B390455-625D-47C1-B581-5C9FFB332CAC}|eBookStoreWebApi\\eBookStoreWebApi.csproj|solutionrelative:ebookstorewebapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B486C824-B365-4076-81FB-345C34816996}|BusinessObject\\BusinessObject.csproj|d:\\.net-learning\\assigment02solution_ce170678\\businessobject\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B486C824-B365-4076-81FB-345C34816996}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B390455-625D-47C1-B581-5C9FFB332CAC}|eBookStoreWebApi\\eBookStoreWebApi.csproj|d:\\.net-learning\\assigment02solution_ce170678\\ebookstorewebapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B390455-625D-47C1-B581-5C9FFB332CAC}|eBookStoreWebApi\\eBookStoreWebApi.csproj|solutionrelative:ebookstorewebapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|d:\\.net-learning\\assigment02solution_ce170678\\ebookstore\\views\\publishers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|solutionrelative:ebookstore\\views\\publishers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|d:\\.net-learning\\assigment02solution_ce170678\\ebookstore\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|solutionrelative:ebookstore\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|d:\\.net-learning\\assigment02solution_ce170678\\ebookstore\\views\\books\\addauthor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|solutionrelative:ebookstore\\views\\books\\addauthor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|d:\\.net-learning\\assigment02solution_ce170678\\ebookstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{899EB0D1-CFAE-43B6-8DE8-0690F28A2024}|eBookStore\\eBookStore.csproj|solutionrelative:ebookstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "eBookStore\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "eBookStore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:51:53.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "eBookStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "eBookStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T16:51:42.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "eBookStore\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "eBookStore\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T16:50:57.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "eBookStore\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "eBookStore\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:41:08.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "eBookStore\\Models\\RegisterViewModel.cs",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "eBookStore\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:40:51.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "eBookStore\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "eBookStore\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T16:40:07.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookAuthorController.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStoreWebApi\\Controllers\\BookAuthorController.cs",
+              "RelativeDocumentMoniker": "eBookStoreWebApi\\Controllers\\BookAuthorController.cs",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStoreWebApi\\Controllers\\BookAuthorController.cs",
+              "RelativeToolTip": "eBookStoreWebApi\\Controllers\\BookAuthorController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:27:43.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BusinessObject",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\BusinessObject\\BusinessObject.csproj",
+              "RelativeDocumentMoniker": "BusinessObject\\BusinessObject.csproj",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\BusinessObject\\BusinessObject.csproj",
+              "RelativeToolTip": "BusinessObject\\BusinessObject.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T16:07:12.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\BusinessObject\\appsettings.json",
+              "RelativeDocumentMoniker": "BusinessObject\\appsettings.json",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\BusinessObject\\appsettings.json",
+              "RelativeToolTip": "BusinessObject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T15:05:14.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\BusinessObject\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\MyDbContext.cs",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\BusinessObject\\MyDbContext.cs",
+              "RelativeToolTip": "BusinessObject\\MyDbContext.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAYwEwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T14:46:58.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\BusinessObject\\Role.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Role.cs",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\BusinessObject\\Role.cs",
+              "RelativeToolTip": "BusinessObject\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T14:45:51.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\BusinessObject\\Book.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Book.cs",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\BusinessObject\\Book.cs",
+              "RelativeToolTip": "BusinessObject\\Book.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:33:44.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStoreWebApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "eBookStoreWebApi\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStoreWebApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "eBookStoreWebApi\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:31:27.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStoreWebApi\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "eBookStoreWebApi\\Controllers\\AuthorsController.cs",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStoreWebApi\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "eBookStoreWebApi\\Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:45:03.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Views\\Publishers\\Index.cshtml",
+              "RelativeDocumentMoniker": "eBookStore\\Views\\Publishers\\Index.cshtml",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Views\\Publishers\\Index.cshtml",
+              "RelativeToolTip": "eBookStore\\Views\\Publishers\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T10:41:37.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Views\\Authors\\Index.cshtml",
+              "RelativeDocumentMoniker": "eBookStore\\Views\\Authors\\Index.cshtml",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Views\\Authors\\Index.cshtml",
+              "RelativeToolTip": "eBookStore\\Views\\Authors\\Index.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T10:41:30.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "eBookStore\\Views\\Books\\Index.cshtml",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "eBookStore\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAIwFwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T10:41:16.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddAuthor.cshtml",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Views\\Books\\AddAuthor.cshtml",
+              "RelativeDocumentMoniker": "eBookStore\\Views\\Books\\AddAuthor.cshtml",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Views\\Books\\AddAuthor.cshtml",
+              "RelativeToolTip": "eBookStore\\Views\\Books\\AddAuthor.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T09:54:20.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "eBookStore\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "eBookStore\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T09:13:13.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStoreWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "eBookStoreWebApi\\appsettings.json",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStoreWebApi\\appsettings.json",
+              "RelativeToolTip": "eBookStoreWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T08:06:26.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T08:03:05.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\DataAccess\\DAOs\\UserDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAOs\\UserDAO.cs",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\DataAccess\\DAOs\\UserDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAOs\\UserDAO.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:02:58.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStoreWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "eBookStoreWebApi\\Program.cs",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStoreWebApi\\Program.cs",
+              "RelativeToolTip": "eBookStoreWebApi\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:58:10.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\appsettings.json",
+              "RelativeDocumentMoniker": "eBookStore\\appsettings.json",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\appsettings.json",
+              "RelativeToolTip": "eBookStore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T07:57:06.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Program.cs",
+              "RelativeDocumentMoniker": "eBookStore\\Program.cs",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Program.cs",
+              "RelativeToolTip": "eBookStore\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAawB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:57:04.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthControler.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Controllers\\AuthControler.cs",
+              "RelativeDocumentMoniker": "eBookStore\\Controllers\\AuthControler.cs",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Controllers\\AuthControler.cs",
+              "RelativeToolTip": "eBookStore\\Controllers\\AuthControler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAywBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:56:28.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "eBookStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\eBookStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "eBookStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T07:53:17.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\BusinessObject\\User.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\User.cs",
+              "ToolTip": "D:\\.NET-Learning\\Assigment02Solution_CE170678\\BusinessObject\\User.cs",
+              "RelativeToolTip": "BusinessObject\\User.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwBsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:49:05.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:34:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

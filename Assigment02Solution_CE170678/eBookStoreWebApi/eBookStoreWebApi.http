@@ -1,0 +1,6 @@
+@eBookStoreWebApi_HostAddress = http://localhost:5285
+
+GET {{eBookStoreWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

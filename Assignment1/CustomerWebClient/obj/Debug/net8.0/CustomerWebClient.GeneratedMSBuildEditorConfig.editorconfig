@@ -17,59 +17,59 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CustomerWebClient
 build_property.RootNamespace = CustomerWebClient
-build_property.ProjectDir = D:\.NET Learning\Assignment1\CustomerWebClient\
+build_property.ProjectDir = D:\.NET-Learning\Assignment1\CustomerWebClient\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\.NET Learning\Assignment1\CustomerWebClient
+build_property.MSBuildProjectDirectory = D:\.NET-Learning\Assignment1\CustomerWebClient
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/.NET Learning/Assignment1/CustomerWebClient/Views/Customers/Create.cshtml]
+[D:/.NET-Learning/Assignment1/CustomerWebClient/Views/Customers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.NET Learning/Assignment1/CustomerWebClient/Views/Customers/Delete.cshtml]
+[D:/.NET-Learning/Assignment1/CustomerWebClient/Views/Customers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.NET Learning/Assignment1/CustomerWebClient/Views/Customers/Details.cshtml]
+[D:/.NET-Learning/Assignment1/CustomerWebClient/Views/Customers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.NET Learning/Assignment1/CustomerWebClient/Views/Customers/Edit.cshtml]
+[D:/.NET-Learning/Assignment1/CustomerWebClient/Views/Customers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.NET Learning/Assignment1/CustomerWebClient/Views/Customers/Index.cshtml]
+[D:/.NET-Learning/Assignment1/CustomerWebClient/Views/Customers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.NET Learning/Assignment1/CustomerWebClient/Views/Home/Index.cshtml]
+[D:/.NET-Learning/Assignment1/CustomerWebClient/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.NET Learning/Assignment1/CustomerWebClient/Views/Home/Privacy.cshtml]
+[D:/.NET-Learning/Assignment1/CustomerWebClient/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.NET Learning/Assignment1/CustomerWebClient/Views/Shared/Error.cshtml]
+[D:/.NET-Learning/Assignment1/CustomerWebClient/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.NET Learning/Assignment1/CustomerWebClient/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/.NET-Learning/Assignment1/CustomerWebClient/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.NET Learning/Assignment1/CustomerWebClient/Views/_ViewImports.cshtml]
+[D:/.NET-Learning/Assignment1/CustomerWebClient/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.NET Learning/Assignment1/CustomerWebClient/Views/_ViewStart.cshtml]
+[D:/.NET-Learning/Assignment1/CustomerWebClient/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.NET Learning/Assignment1/CustomerWebClient/Views/Shared/_Layout.cshtml]
+[D:/.NET-Learning/Assignment1/CustomerWebClient/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ls3w8jchxh

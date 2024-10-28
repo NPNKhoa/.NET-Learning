@@ -1,0 +1,109 @@
+﻿@model IEnumerable<BusinessObject.Publisher>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+<input type="text" id="filter" placeholder="Enter filter e.g., price gt 20" />
+<button onclick="sendODataRequest()">Send OData Request</button>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.publisher_name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.city)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.state)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.country)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody id="publisher-table-body">
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.publisher_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.city)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.state)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.country)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.pub_id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.pub_id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.pub_id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<script>
+    async function sendODataRequest() {
+        const filter = document.getElementById('filter').value;
+
+        // Sử dụng $filter để tìm kiếm theo cả publisher_name và city
+        const url = filter
+            ? `http://localhost:5285/odata/Publishers?$filter=contains(publisher_name, '${filter}')`
+            : `http://localhost:5285/odata/Publishers`;
+
+        try {
+            const response = await fetch(url);
+
+            if (!response.ok) {
+                throw new Error('Failed to fetch data from the server');
+            }
+
+            const data = await response.json();
+            console.log(data);
+            renderPublishers(data); // 'value' chứa danh sách các publishers từ OData response
+        } catch (error) {
+            console.error(error);
+            return alert("Some things went wrong");
+        }
+    }
+
+    // Hàm để render dữ liệu lên bảng
+    function renderPublishers(publishers) {
+        const tableBody = document.getElementById('publisher-table-body');
+        tableBody.innerHTML = '';  // Xóa nội dung hiện tại của bảng
+
+        // Tạo nội dung mới
+        publishers.forEach(publisher => {
+            const row = document.createElement('tr');
+
+            row.innerHTML = `
+                    <td>${publisher.publisher_name}</td>
+                    <td>${publisher.city}</td>
+                    <td>${publisher.state}</td>
+                    <td>${publisher.country}</td>
+                    <td>
+                        <a href="/Publishers/Edit/${publisher.pub_id}">Edit</a> |
+                        <a href="/Publishers/Details/${publisher.pub_id}">Details</a> |
+                        <a href="/Publishers/Delete/${publisher.pub_id}">Delete</a>
+                    </td>
+                `;
+
+            // Thêm row mới vào bảng
+            tableBody.appendChild(row);
+        });
+    }
+</script>
+

@@ -1,0 +1,6 @@
+@ModelValidation_HostAddress = http://localhost:5195
+
+GET {{ModelValidation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

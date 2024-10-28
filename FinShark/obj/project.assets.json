@@ -4656,11 +4656,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NET Learning\\FinShark\\FinShark.csproj",
+      "projectUniqueName": "D:\\.NET-Learning\\FinShark\\FinShark.csproj",
       "projectName": "FinShark",
-      "projectPath": "D:\\.NET Learning\\FinShark\\FinShark.csproj",
+      "projectPath": "D:\\.NET-Learning\\FinShark\\FinShark.csproj",
       "packagesPath": "C:\\Users\\nguyenkhoa\\.nuget\\packages\\",
-      "outputPath": "D:\\.NET Learning\\FinShark\\obj\\",
+      "outputPath": "D:\\.NET-Learning\\FinShark\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nguyenkhoa\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8044,11 +8044,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NET Learning\\Assignment1\\CustomerWebClient\\CustomerWebClient.csproj",
+      "projectUniqueName": "D:\\.NET-Learning\\Assignment1\\CustomerWebClient\\CustomerWebClient.csproj",
       "projectName": "CustomerWebClient",
-      "projectPath": "D:\\.NET Learning\\Assignment1\\CustomerWebClient\\CustomerWebClient.csproj",
+      "projectPath": "D:\\.NET-Learning\\Assignment1\\CustomerWebClient\\CustomerWebClient.csproj",
       "packagesPath": "C:\\Users\\nguyenkhoa\\.nuget\\packages\\",
-      "outputPath": "D:\\.NET Learning\\Assignment1\\CustomerWebClient\\obj\\",
+      "outputPath": "D:\\.NET-Learning\\Assignment1\\CustomerWebClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nguyenkhoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8066,8 +8066,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\.NET Learning\\Assignment1\\BusinessObjects\\BusinessObjects.csproj": {
-              "projectPath": "D:\\.NET Learning\\Assignment1\\BusinessObjects\\BusinessObjects.csproj"
+            "D:\\.NET-Learning\\Assignment1\\BusinessObjects\\BusinessObjects.csproj": {
+              "projectPath": "D:\\.NET-Learning\\Assignment1\\BusinessObjects\\BusinessObjects.csproj"
             }
           }
         }

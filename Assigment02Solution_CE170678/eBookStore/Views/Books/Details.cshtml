@@ -1,0 +1,75 @@
+﻿@model BusinessObject.Book
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Book</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.title)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.title)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.type)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.type)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.price)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.price)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.advance)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.advance)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.royalty)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.royalty)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ytd_sales)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ytd_sales)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.notes)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.notes)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.published_date)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.published_date)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Publisher)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Publisher.city)
+        </dd>
+    </dl>
+    
+
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.book_id">Edit</a> |
+    <a asp-action="Index">Back to List</a>|
+    <a asp-action="AddAuthor" asp-route-id="@Model?.book_id">Add Authors</a>
+</div>
